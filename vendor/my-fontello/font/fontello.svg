@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="qiita" unicode="&#xe800;" d="M329 366c0 80-62 163-166 163-80 0-163-62-163-166 0-80 61-162 166-162 33 0 66 10 94 30l48-48 22 22-46 45c28 31 45 71 45 116z m-166 133c76 0 136-58 136-134 0-66-51-135-135-135-84 0-135 68-135 133 0 86 69 136 134 136z m244-65h28v-227h-28z m14 31a24 24 0 0 0-24 24c0 13 10 24 24 24 13 0 24-11 24-24 0-14-11-24-24-24z m113 0a24 24 0 0 0-24 24c0 13 11 24 24 24 13 0 24-11 24-24 0-14-11-24-24-24z m-13-31h28v-227h-28z m196-231c-52 0-83 40-83 80v214h28v-63h99v-28h-99v-124c0-25 20-52 55-52 9 0 19 3 27 8l2 1 14-24-3-1c-12-7-27-11-40-11z m186-1c-77 0-122 60-122 119 0 76 60 121 119 121 31 0 55-11 72-31v23h28v-227h-28v26c-16-20-40-31-69-31z m-3 212c-45 0-91-35-91-93 0-46 35-91 94-91 26 0 53 12 70 33v118a95 95 0 0 1-73 33z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

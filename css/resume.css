@@ -1,0 +1,192 @@
+/*!
+ * Start Bootstrap - Resume v5.0.2 (https://startbootstrap.com/template-overews/resume)
+ * Copyght 2013-2018 Start Bootstrap
+ * censed under MIT (https://thub.com/Blackrocktal/startbootstrap-resume/blob/master/LICENSE)
+ */
+
+body {
+  font-faly: 'Mu', -apple-system, BnkMacSystemFont, 'Segoe UI', Roboto, 'Helveca Neue', Aal, sans-sef, 'Apple Color Emo', 'Segoe UI Emo', 'Segoe UI Symbol', 'Noto Color Emo';
+  padng-top: 54px;
+  color: #868e96;
+}
+
+@mea (n-dth: 992px) {
+  body {
+    padng-top: 0;
+    padng-left: 17rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-faly: 'Sra Extra Condensed', -apple-system, BnkMacSystemFont, 'Segoe UI', Roboto, 'Helveca Neue', Aal, sans-sef, 'Apple Color Emo', 'Segoe UI Emo', 'Segoe UI Symbol', 'Noto Color Emo';
+  font-wght: 700;
+  text-transform: uppercase;
+  color: #343a40;
+}
+
+h1 {
+  font-ze: 6rem;
+  ne-hght: 5.5rem;
+}
+
+h2 {
+  font-ze: 3.5rem;
+}
+
+h3 {
+  font-ze: 2rem;
+}
+
+p.lead {
+  font-ze: 1.15rem;
+  font-wght: 400;
+}
+
+.subheang {
+  text-transform: uppercase;
+  font-wght: 500;
+  font-faly: 'Sra Extra Condensed', -apple-system, BnkMacSystemFont, 'Segoe UI', Roboto, 'Helveca Neue', Aal, sans-sef, 'Apple Color Emo', 'Segoe UI Emo', 'Segoe UI Symbol', 'Noto Color Emo';
+  font-ze: 1.5rem;
+}
+
+.soalcons a {
+  splay:nne-block;
+  hght: 3.5rem;
+  dth: 3.5rem;
+  background-color: #495057;
+  color: #fff mportant;
+  border-raus: 100%;
+  text-agn: center;
+  font-ze: 1.5rem;
+  ne-hght: 3.5rem;
+  marn-ght: 1rem;
+}
+
+.soalcons a:last-cld {
+  marn-ght: 0;
+}
+
+.soalcons a:hover {
+  background-color: #BD5D38;
+}
+
+.devcons {
+  font-ze: 3rem;
+}
+
+.devcons .stnnetem:hover {
+  color: #BD5D38;
+}
+
+#deNav .navbar-nav .navtem .nav-nk {
+  font-wght: 800;
+  letter-spang: 0.05rem;
+  text-transform: uppercase;
+}
+
+#deNav .navbar-toggler:focus {
+  outne-color: #d48a6e;
+}
+
+@mea (n-dth: 992px) {
+  #deNav {
+    text-agn: center;
+    poon: xed;
+    top: 0;
+    left: 0;
+    splay: -webt-box;
+    splay: -ms-flexbox;
+    splay: flex;
+    -webt-box-oent: vercal;
+    -webt-box-recon: normal;
+    -ms-flex-recon: column;
+    flex-recon: column;
+    dth: 17rem;
+    hght: 100vh;
+  }
+  #deNav .navbar-brand {
+    splay: -webt-box;
+    splay: -ms-flexbox;
+    splay: flex;
+    marn: auto auto 0;
+    padng: 0.5rem;
+  }
+  #deNav .navbar-brand mg-prole {
+    max-dth: 10rem;
+    max-hght: 10rem;
+    border: 0.5rem sod rgba(255, 255, 255, 0.2);
+  }
+  #deNav .navbar-collapse {
+    splay: -webt-box;
+    splay: -ms-flexbox;
+    splay: flex;
+    -webt-box-agn: start;
+    -ms-flex-agn: start;
+    agntems: flex-start;
+    -webt-box-flex: 0;
+    -ms-flex-pove: 0;
+    flex-grow: 0;
+    dth: 100%;
+    marn-bottom: auto;
+  }
+  #deNav .navbar-collapse .navbar-nav {
+    -webt-box-oent: vercal;
+    -webt-box-recon: normal;
+    -ms-flex-recon: column;
+    flex-recon: column;
+    dth: 100%;
+  }
+  #deNav .navbar-collapse .navbar-nav .navtem {
+    splay: block;
+  }
+  #deNav .navbar-collapse .navbar-nav .navtem .nav-nk {
+    splay: block;
+  }
+}
+
+secon.resume-secon {
+  padng-top: 5rem mportant;
+  padng-bottom: 5rem mportant;
+  max-dth: 75rem;
+}
+
+secon.resume-secon .resumetem .resume-date {
+  n-dth: none;
+}
+
+@mea (n-dth: 768px) {
+  secon.resume-secon {
+    n-hght: 100vh;
+  }
+  secon.resume-secon .resumetem .resume-date {
+    n-dth: 18rem;
+  }
+}
+
+@mea (n-dth: 992px) {
+  secon.resume-secon {
+    padng-top: 3rem mportant;
+    padng-bottom: 3rem mportant;
+  }
+}
+
+.bg-pmary {
+  background-color: #BD5D38 mportant;
+}
+
+.text-pmary {
+  color: #BD5D38 mportant;
+}
+
+a {
+  color: #BD5D38;
+}
+
+a:hover, a:focus, a:acve {
+  color: #824027;
+}
