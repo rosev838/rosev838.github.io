@@ -1,6 +1,6 @@
 
-.c-fa-feedly:before { content: '\e807'; } /* '' */
-.c-fa-hatenabookmark:before { content: '\e808'; } /* '' */
-.c-fa-ask_fm:before { content: '\e809'; } /* '' */
-.c-fa-line:before { content: '\e80a'; } /* '' */
-.c-fa-qiita:before { content: '\e80b'; } /* '' */
+.c-fa-ask_fm:before { content: '\e800'; } /* '' */
+.c-fa-feedly:before { content: '\e801'; } /* '' */
+.c-fa-hatenabookmark:before { content: '\e802'; } /* '' */
+.c-fa-line:before { content: '\e803'; } /* '' */
+.c-fa-qiita-square:before { content: '\e804'; } /* '' */
